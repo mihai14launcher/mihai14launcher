@@ -2,9 +2,9 @@
 
 **I'm a developer specializing in:**
 
-| **Backend** | **Frontend** | **OS**  |
-|-------------|--------------|---------|
-| PHP         | HTML         | Linux   |
+| **Backend** | **Frontend** | **OS**  |                                     |**My Project**|
+|-------------|--------------|---------|                                     |--------------|
+| PHP         | HTML         | Linux   |                                     | EasyFetch|
 | Node.js     | CSS          | Windows 11 |
 | Python      | SCSS         |
 | Java        | JavaScript   |
