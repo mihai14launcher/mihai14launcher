@@ -2,10 +2,10 @@
 
 **I'm a developer specializing in:**
 
-| **Backend** | **Frontend** | **OS**        | **My Project** |
-|-------------|--------------|---------------|----------------|
-| PHP         | HTML         | Linux         | EasyFetch      |
-| Node.js     | CSS          | Windows 11    |                |
+| **Backend** | **Frontend** | **OS**        | **My Project** | **Our Bots** |
+|-------------|--------------|---------------|----------------|--------------|
+| PHP         | HTML         | Linux         | EasyFetch      | MrBit [ai]   |
+| Node.js     | CSS          | Windows 11    |                | Sys32        |
 | Python      | SCSS         |               |                |
 | Java        | JavaScript   |               |                |
 | Next.js     | TypeScript   |               |                |
