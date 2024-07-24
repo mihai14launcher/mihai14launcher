@@ -6,8 +6,8 @@
 |-------------|--------------|---------------|----------------|--------------|
 | PHP         | HTML         | Linux         | [EasyFetch](https://github.com/mihai14launcher/EasyFetch)      | MrBit [ai]   |
 | Node.js     | CSS          | Windows 11    | [Docker Helper](https://docker-helper.vercel.app)               | Sys32        |
-| Python      | SCSS         |               |                |
+| Python      | SCSS         |  Docker             |                |
 | Java        | JavaScript   |               |                |
-| Next.js     | TypeScript   |               |                |
-
+| Next.js | TypeScript   |               |                |
+| Docker  |
 **Discord:** [Join my server](https://discord.gg/PXTtxEK7g8)
