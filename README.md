@@ -9,5 +9,4 @@
 | Python      | SCSS         |  Docker             |                |
 | Java        | JavaScript   |               |                |
 | Next.js | TypeScript   |               |                |
-| Docker  | | | |
 **Discord:** [Join my server](https://discord.gg/PXTtxEK7g8)
