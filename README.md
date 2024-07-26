@@ -2,7 +2,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=mihai14launcher&langs_count=50&show_icons=true&theme=tokyonight)
 
 # **Knowing :**
-![line](https://skillicons.dev/icons?i=bash,powershell,python,npm,php,html,css,js,&theme=dark)
+![line](https://skillicons.dev/icons?i=bash,docker,powershell,python,npm,php,html,css,js,&theme=dark)
 
 # **Learning :**
 ![line2](https://skillicons.dev/icons?i=ts,java,go,kotlin,react,ruby,rust&theme=dark)
