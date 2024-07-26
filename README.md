@@ -1,6 +1,6 @@
 # **My Stats**
-![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=mihai14launcher&hide_progress=false&langs_count=50&theme=tokyonight) ![stats](https://github-readme-stats.vercel.app/api?username=mihai14launcher&langs_count=50&show_icons=true&theme=tokyonight)
-
+![stats](https://github-readme-stats.vercel.app/api?username=mihai14launcher&langs_count=50&show_icons=true&theme=tokyonight)
+![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=mihai14launcher&hide_progress=false&langs_count=50&theme=tokyonight&layout=compact)
 # **Knowing :**
 ![line](https://skillicons.dev/icons?i=bash,docker,powershell,python,npm,php,html,css,js,&theme=dark)
 
