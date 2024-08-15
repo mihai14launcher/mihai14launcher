@@ -13,7 +13,7 @@
 
 # **Development Environment**
 ### **Coding With:**
-![Coding](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)
+![Coding](https://skillicons.dev/icons?i=vscode&theme=dark)
 
 ### **Operating System:**
 ![System](https://skillicons.dev/icons?i=windows&theme=dark)
