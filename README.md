@@ -25,7 +25,7 @@
 
 # **Contact Me**
 ### **Discord:**
-![Discord](https://skillicons.dev/icons?i=discord&theme=dark) **mihai_sb_2009**
+![Discord](https://skillicons.dev/icons?i=discord&theme=dark) **_mihai_2009**
 
 ### **Discord Server:**
 ![Discord Server](https://skillicons.dev/icons?i=discord&theme=dark) **[VOX](https://discord.gg/PXTtxEK7g8)**
