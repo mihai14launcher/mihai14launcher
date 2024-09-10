@@ -32,6 +32,3 @@
 
 ### **GitHub:**
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) **[mihai14launcher](https://github.com/mihai14launcher)**
-
-### **Replit:**
-![Replit](https://skillicons.dev/icons?i=replit&theme=dark) **Still in work**
